@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Payal Roy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer with a knack for crafting beautiful and responsive web applications. Currently pursuing engineering in Electronics and Communication, I enjoy combining creativity with code to solve problems and enhance user experiences.</h3>
 
 - 🔭 I’m currently working on **Breast Cancer Detection**
 
